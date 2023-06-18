@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP8rMXkMVs5bXQNsHN3f23MBQmBrKmtzmQZ6ijgvtvr+oc0SdsJReAR0+K4Wi32cRFf994HY1Mk47M+RNJHw/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ddelgado\\Desktop\\NetCoreYoutube\\NetCoreYoutube\\NetCoreYoutube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddelgado\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ddelgado\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ddelgado\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ddelgado\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ddelgado\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ddelgado\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
